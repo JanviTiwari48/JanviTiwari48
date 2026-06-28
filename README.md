@@ -1,20 +1,18 @@
 # Hi,This is Janvi Tiwari
-BTECH 3rd year student majoring in Computer Science.
-
+BTECH 3rd year Student majoring in Computer Science.
 ---
 ## Currently Learning
 - Spring Boot(Java Full Stack)
 - Core Concepts
 - Data Structures & Algorithms
-
  ---
  ## Tech Stack
-
+---
  ### Languages
  -Java
  -SQL
- 
- ###Backend
+
+ ### Backend
  -JDBC
  -Servlet
  
