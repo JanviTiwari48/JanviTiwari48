@@ -19,14 +19,12 @@ B.Tech 3rd Year Student majoring in Computer Science.
 - Java
 - SQL
 
-###  Backend
 
-- JDBC
-- Servlet
 
 ###  Frameworks and Libraries
 
 - React.js
+- SpringBoot
 
 ###  Tools and Technologies
 
