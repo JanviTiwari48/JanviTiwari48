@@ -1,13 +1,13 @@
 # Hi, I'm Janvi Tiwari 
 
-B.Tech 3rd Year Student majoring in Computer Science.
+ B.Tech 3rd Year Student majoring in Computer Science.
 
 ---
 
 ##  Currently Learning
 
 - Spring Boot (Java Full Stack)
-- Core Concepts
+- Core Java
 - Data Structures & Algorithms
 
 ---
@@ -19,15 +19,21 @@ B.Tech 3rd Year Student majoring in Computer Science.
 - Java
 - SQL
 
+### Frameworks & Libraries
 
-
-###  Frameworks and Libraries
-
+- Spring Boot
 - React.js
-- SpringBoot
+- Spring JPA
 
-###  Tools and Technologies
+### Tools & Technologies
 
-- VS Code
 - IntelliJ IDEA
+- VS Code
 - Git & GitHub
+
+---
+
+##  Connect with Me
+
+-  **Email:** janvitiwari934@gmail.com
+-  **LeetCode:** https://leetcode.com/u/janvi0704/
