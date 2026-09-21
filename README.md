@@ -1,6 +1,6 @@
 # Hi, I'm Janvi Tiwari 
 
- B.Tech 3rd Year Student majoring in Computer Science.
+ B.Tech 4th Year Student majoring in Computer Science.
 
 ---
 
